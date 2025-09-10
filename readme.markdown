@@ -1,3 +1,5 @@
+![./Screenshot.png](./Screenshot.png)
+
 # การวิเคราะห์ผลลัพธ์โมเดล Machine Learning
 
 จากการประเมินโมเดลทั้ง 6 ตัว (Decision Tree, Random Forest, Logistic Regression, Polynomial Logistic, SVM, KNN) โดยใช้เมตริก Accuracy, Precision, Recall, F1-Score และ ROC-AUC พบว่าแต่ละโมเดลมีจุดเด่นและจุดด้อยแตกต่างกัน ดังนี้:
